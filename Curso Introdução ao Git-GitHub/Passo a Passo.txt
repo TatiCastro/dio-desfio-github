@@ -1,0 +1,13 @@
+Criando repositório e clonando em sua máquina
+*Criar um novo repositório no GitHub - em new
+*Copiar URL do repositório
+*Criar pastas e arquivos em C: onde vc quer clonar o repositório
+*Abrir o Git Bash dentro da pasta
+*comando: git clone (url copiada do GitHub)
+
+Envindo repositório local para remoto
+git status - para verificar se tem algum arquivo para ser commitado
+git add * - para mover todos os arquivos considerados no controle de versão
+git commit -m "mensagem" 
+git push origin main
+
