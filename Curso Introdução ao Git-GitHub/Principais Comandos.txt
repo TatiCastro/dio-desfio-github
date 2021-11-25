@@ -1,0 +1,20 @@
+git init
+git add
+git commit
+ls - listar
+cd - entrar nas pastas
+mkdir - cria pastas
+ctrl+l - limpa tudo
+ls -a - mostra arquivos ocultos
+cd.. - volta níveis 
+
+
+git add * - move tudo não commitado p/ staged
+
+git status -  verifica status dos arquivos
+
+mv (nome do arquivo) ./ (pasta) /  - move o (arquivo) para a (pasta)
+
+git remote -v - lista as listas de repositórios remotos
+
+git push oringin master - repositório local para remoto 
